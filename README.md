@@ -128,3 +128,41 @@ For any queries or suggestions, please feel free to reach out!
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star!
+
+## 📸 Screenshots
+
+### Login Page
+The login interface allows users to securely authenticate with their credentials.
+```
+login_page.png (screenshot showing login form with username and password fields)
+```
+
+### Student Dashboard
+After successful login, students can access their personalized dashboard with course enrollment and transaction information.
+```
+student_dashboard.png (screenshot showing student's courses, payments, and transaction history)
+```
+
+### Course Management
+Administrators can manage courses, view enrollments, and handle course-related operations.
+```
+course_management.png (screenshot showing course list with enrollment details)
+```
+
+### Payment Processing
+Streamlined payment interface for processing student payments and tracking financial transactions.
+```
+payment_page.png (screenshot showing payment form and transaction confirmation)
+```
+
+### Admin Panel
+Comprehensive admin dashboard for managing students, courses, payments, and system operations.
+```
+admin_panel.png (screenshot showing admin controls and system management tools)
+```
+
+### Transaction History
+Detailed transaction records showing all student payments and financial activities.
+```
+transaction_history.png (screenshot showing transaction list with dates, amounts, and statuses)
+```
